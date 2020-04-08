@@ -1,0 +1,13 @@
+{
+  "name": "axios-serve-test",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
